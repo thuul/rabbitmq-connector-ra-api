@@ -4,7 +4,7 @@ The library is built as Java Free Form Project.
 
 Dependencies
 
-Apache Common Util 
+Apache Common Util  
 amqp-client 3.6.0 and above
 reusable-pool-util-api (download and build)
 SLF4J curent version
